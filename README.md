@@ -9,7 +9,7 @@ As organizations increasingly migrate their infrastructure to the cloud, ensurin
 
 - <a href="https://github.com/Juniorklb/AWS-iam-role-analyzer">AWS-iam-role-analyzer</a>
 
-This repository contains hands-on cloud security projects designed to:
+ This cybersecurity repository contains hands-on cloud security projects designed to:
 
 **✅ Identify and mitigate security vulnerabilities in cloud environments**
 
