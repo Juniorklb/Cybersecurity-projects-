@@ -1,4 +1,5 @@
 # Cybersecurity-projects
+## 🎯 Objectives
 As organizations increasingly migrate their infrastructure to the cloud, ensuring strong security measures has become critical. Cloud environments introduce unique challenges, such as identity and access misconfigurations, data breaches, compliance risks, and evolving cyber threats. These projects focus on securing cloud architectures by leveraging industry best practices, automation, and real-time monitoring.
 
 ## projects
