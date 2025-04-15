@@ -23,6 +23,8 @@ This cybersecurity repository contains hands-on cloud security projects designed
 
 - <a href="https://github.com/Juniorklb/AWS-iam-role-analyzer">AWS-iam-role-analyzer</a>
 
+- <a href="https://github.com/Juniorklb/Phishing-Detection-System-Email-Analyzer-/blob/main/README.md"> Phishing detection system</a>
+
 
 
 
