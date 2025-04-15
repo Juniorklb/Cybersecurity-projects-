@@ -25,6 +25,8 @@ This cybersecurity repository contains hands-on cloud security projects designed
 
 - <a href="https://github.com/Juniorklb/Phishing-Detection-System-Email-Analyzer-/blob/main/README.md"> Phishing detection system</a>
 
+- <a href="https://github.com/Juniorklb/Web-Application-Vulnerability-Scanner"> web application vulnerability Scanner</a>
+
 
 
 
