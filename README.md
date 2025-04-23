@@ -19,13 +19,13 @@ This cybersecurity repository contains hands-on cloud security projects designed
 
 <img align="right" alt="Coding" width="400" src="https://github.com/Juniorklb/Juniorklb/blob/662692f737cc8f550da799d48190446b55a68900/Working%20hard.jpeg">
 
-- <a href=https://github.com/Juniorklb/Security-Monitoring-Project-on-AWS/blob/main/README.md>AWS Security Monitoring Project</a>
+- <h4><a href=https://github.com/Juniorklb/Security-Monitoring-Project-on-AWS/blob/main/README.md>AWS Security Monitoring Project</h4>
 
-- <a href="https://github.com/Juniorklb/AWS-iam-role-analyzer">AWS-iam-role-analyzer</a>
+- <h4><a href="https://github.com/Juniorklb/AWS-iam-role-analyzer">AWS-iam-role-analyzer</h4>
 
-- <a href="https://github.com/Juniorklb/Phishing-Detection-System-Email-Analyzer-/blob/main/README.md"> Phishing detection system (in progress) </a>
+- <h4><a href="https://github.com/Juniorklb/Phishing-Detection-System-Email-Analyzer-/blob/main/README.md"> Phishing detection system (in progress) </h4>
 
-- <a href="https://github.com/Juniorklb/Web-Application-Vulnerability-Scanner"> web application vulnerability Scanner (in progress)</a>
+- <h4><a href="https://github.com/Juniorklb/Web-Application-Vulnerability-Scanner"> web application vulnerability Scanner (in progress)</h4>
 
 
 
