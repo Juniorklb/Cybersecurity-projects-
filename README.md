@@ -27,11 +27,17 @@ This cybersecurity repository contains hands-on cloud security projects designed
 
 - <h4><a href=""> Vulnerability Scanning with OpenVAS (in progress)</h4>
 
+- <h4><a href=""> Splunk Ransomware Detection Dashboard (in progress)</h4>
 
+- <h4><a href=""> Phishing Email Analyzer with Python (in progress)</h4>
 
+- <h4><a href=""> AWS IAM Role Misconfiguration Scanner (in progress)</h4>
 
+- <h4><a href=""> Security Information and Event Management (SIEM) with ELK Stack (in progress)</h4>
 
+- <h4><a href=""> Incident Response Simulation Lab  (in progress)</h4>
 
+- <h4><a href="">  Threat Hunting in a SOC-like Environment  (in progress)</h4>
 
 
 
