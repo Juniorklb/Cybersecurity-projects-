@@ -19,7 +19,7 @@ This cybersecurity repository contains hands-on cloud security projects designed
 
 <img align="right" alt="Coding" width="400" src="https://github.com/Juniorklb/Juniorklb/blob/662692f737cc8f550da799d48190446b55a68900/Working%20hard.jpeg">
 
-- <h4><a href="https://github.com/Juniorklb/Security-Monitoring-Project-on-AWS/blob/main/README.md">Log File Analysis with Linux Tools</h4>
+- <h4><a href="https://github.com/Juniorklb/Log-File-Analysis-with-Linux-Tools">Log File Analysis with Linux Tools</h4>
 
 - <h4><a href="">Windows Event Log Monitoring with Sysmon (in progress)</h4>
 
