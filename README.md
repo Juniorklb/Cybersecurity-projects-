@@ -1,4 +1,4 @@
-<img src="https://github.com/Juniorklb/Juniorklb/blob/0975cb3b0dcf42f65373d3b9e5d4ced7f1389c2c/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif">
+<img   width="1000" src="https://github.com/Juniorklb/Cybersecurity-projects-/blob/f74a3c8067a92d5d823201808144075a04ef829c/images/cyber-defense-breach.webp">
 
 <p align="center">
   
