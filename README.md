@@ -1,3 +1,7 @@
+<img src="https://github.com/Juniorklb/Juniorklb/blob/0975cb3b0dcf42f65373d3b9e5d4ced7f1389c2c/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif">
+
+<p align="center">
+  
 # Cybersecurity-projects
 ## 🎯 Objectives
 As organizations increasingly migrate their infrastructure to the cloud, ensuring strong security measures has become critical. Cloud environments introduce unique challenges, such as identity and access misconfigurations, data breaches, compliance risks, and evolving cyber threats. These projects focus on securing cloud architectures by leveraging industry best practices, automation, and real-time monitoring.
