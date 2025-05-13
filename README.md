@@ -25,23 +25,23 @@ This cybersecurity repository contains hands-on cloud security projects designed
 
 - <h4><a href="https://github.com/Juniorklb/Log-File-Analysis-with-Linux-Tools">Log File Analysis with Linux Tools</h4>
 
-- <h4><a href="">Windows Event Log Monitoring with Sysmon (in progress)</h4>
+- <h4><a "href="">Windows Event Log Monitoring with Sysmon (in progress)</h4>
 
-- <h4><a href=""> Wireshark Traffic Capture and Analysis (in progress) </h4>
+- <h4><a "href=""> Wireshark Traffic Capture and Analysis (in progress) </h4>
 
-- <h4><a href=""> Vulnerability Scanning with OpenVAS (in progress)</h4>
+- <h4><a "href=""> Vulnerability Scanning with OpenVAS (in progress)</h4>
 
-- <h4><a href=""> Splunk Ransomware Detection Dashboard (in progress)</h4>
+- <h4><a "href=""> Splunk Ransomware Detection Dashboard (in progress)</h4>
 
-- <h4><a href=""> Phishing Email Analyzer with Python (in progress)</h4>
+- <h4><a "href=""> Phishing Email Analyzer with Python (in progress)</h4>
 
-- <h4><a href=""> AWS IAM Role Misconfiguration Scanner (in progress)</h4>
+- <h4><a "href=""> AWS IAM Role Misconfiguration Scanner (in progress)</h4>
 
-- <h4><a href=""> Security Information and Event Management (SIEM) with ELK Stack (in progress)</h4>
+- <h4><a "href=""> Security Information and Event Management (SIEM) with ELK Stack (in progress)</h4>
 
-- <h4><a href=""> Incident Response Simulation Lab  (in progress)</h4>
+- <h4><a "href=""> Incident Response Simulation Lab  (in progress)</h4>
 
-- <h4><a href="">  Threat Hunting in a SOC-like Environment  (in progress)</h4>
+- <h4><a "href="">  Threat Hunting in a SOC-like Environment  (in progress)</h4>
 
 
 <h2>👥 Connect with me:</h2>
