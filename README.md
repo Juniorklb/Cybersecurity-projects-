@@ -21,7 +21,7 @@ This cybersecurity repository contains hands-on cloud security projects designed
 
 ## projects
 
-<img align="right" alt="Coding" width="600" src="https://github.com/Juniorklb/Cybersecurity-projects-/blob/d776aadf8b02f4f423ec87030434a65dd06a3f5a/images/Hack.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/Juniorklb/Cybersecurity-projects-/blob/d776aadf8b02f4f423ec87030434a65dd06a3f5a/images/Hack.gif">
 
 - <h4><a href="https://github.com/Juniorklb/Log-File-Analysis-with-Linux-Tools">Log File Analysis with Linux Tools</h4>
 
