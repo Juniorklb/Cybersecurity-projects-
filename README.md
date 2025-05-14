@@ -25,7 +25,7 @@ This cybersecurity repository contains hands-on cloud security projects designed
 
 - <h4><a href="https://github.com/Juniorklb/Log-File-Analysis-with-Linux-Tools">Log File Analysis with Linux Tools</h4>
 
-- <h4><a href="">Windows Event Log Monitoring with Sysmon (in progress)</h4>
+- <h4><a href=">Windows Event Log Monitoring with Sysmon (in progress)</h4>
 
 - <h4><a "href=""> Wireshark Traffic Capture and Analysis (in progress) </h4>
 
